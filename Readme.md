@@ -53,3 +53,7 @@ Some of their application features which I noticed were:
 ![Data_Model](https://github.com/Ayan-OP/Namma-Yatri/blob/main/Imp%20images/%233.png)
 
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
